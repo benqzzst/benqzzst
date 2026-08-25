@@ -3,8 +3,8 @@
 Soy estudiante de Ingeniería Informatica y de Analista Programador Universitario en FI UNJU
 
 ## 🚀 Sobre mí
-- 💻 Me apasiona la programación
-- ⭐ Me fascinan los vehiculos como auto, moto y bicicleta. 
+- 💻 Me apasiona la programación y el Hardware de PC
+- ⭐ Me fascinan los vehiculos como auto, moto y bicicleta 
 - 🎮 En mis tiempos libres me gusta jugar a videojuegos tanto en consola (XBOX y PS) y PC
 
 ## 📫 Contacto
