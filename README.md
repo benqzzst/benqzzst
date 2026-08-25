@@ -4,6 +4,7 @@ Soy estudiante de Ingeniería Informatica y de Analista Programador Universitari
 
 ## 🚀 Sobre mí
 - 💻 Me apasiona la programación y el Hardware de PC
+- 💖 Me encantan los Animales
 - ⭐ Me fascinan los vehiculos como auto, moto y bicicleta 
 - 🎮 En mis tiempos libres me gusta jugar a videojuegos tanto en consola (XBOX y PS) y PC
 
