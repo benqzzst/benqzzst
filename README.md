@@ -3,10 +3,10 @@
 Soy estudiante de Ingeniería Informatica y de Analista Programador Universitario en FI UNJU
 
 ## 🚀 Sobre mí
-- 💻 Me apasiona la programación y el Hardware de PC
+- 💻 Me apasiona la programación, tecnologia y el Hardware de PC
 - 💖 Me encantan los Animales
-- ⭐ Me fascinan los vehiculos como auto, moto y bicicleta 
-- 🎮 En mis tiempos libres me gusta jugar a videojuegos tanto en consola (XBOX y PS) y PC
+- ⭐ Me fascina manejar moto y auto y andar en bicicleta
+- 🎮 En mis tiempos libres me gusta jugar a videojuegos tanto en consola y PC
 
 ## 📫 Contacto
 - Podés encontrarme en GitHub o escribirme a mi correo institucional 36425058@fi.unju.edu.ar
