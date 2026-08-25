@@ -1,4 +1,4 @@
-# ¡Hola! Soy QUISPE BENJAMIN AUGUSTO 👋
+# ¡Hola! Soy BENJAMIN AUGUSTO QUISPE 👋
 
 Soy estudiante de Ingeniería Informatica y de Analista Programador Universitario en FI UNJU
 
