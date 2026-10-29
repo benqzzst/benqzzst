@@ -1,7 +1,9 @@
 # ¡Hola! Soy BENJAMIN AUGUSTO QUISPE 👋
 
-Soy estudiante de Ingeniería Informatica y de Analista Programador Universitario en FI UNJU 
+Soy estudiante de Ingeniería Informática y de Analista Programador Universitario en FI UNJU
 
 ## Sobre mí 😎
-- 🔹Me apasiona la programación, la tecnologia y el Hardware de PC 🖥️🤖
-- 🔹Me fascina manejar moto, auto y andar en bicicleta 🏍️🚗🚴🏻‍♂️
+
+- 🎯 Mi enfoque principal está en la **gestión de proyectos**, el **liderazgo de equipos** y el **análisis de requerimientos**, articulando soluciones técnicas con visión estratégica.
+- 📊 Me interesa el análisis de datos para la toma de decisiones y la optimización de procesos.
+- 🚗🏍️🚲 En mi tiempo libre disfruto manejar auto, moto y andar en bicicleta.
